@@ -3,7 +3,7 @@
 #
 #  Copyright (c) 2006 Tim Burks, Neon Design Technology, Inc.  
 #  Released under the same license as Console.
-#  Find more information about this file online at http://www.Console.com/mastering-cocoa-with-ruby
+#  Find more information about this file online at http://www.rubycocoa.com/mastering-cocoa-with-ruby
 #
 #  23.09.2008 - ported to MacRuby 0.3 by Antonin Hildebrand
 #
